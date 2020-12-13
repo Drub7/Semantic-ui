@@ -1,0 +1,29 @@
+#textinput {
+    height: 200px;
+    width: 410px;
+    vertical-align: middle;
+    margin-left: 55px;
+    margin-right: 20px;
+    scroll-behavior: auto;  
+  }
+
+  #mybtn{
+    text-align: center;
+    margin-left: 20em;
+    justify-content: center;
+  }
+  .right {
+    padding-top: 9px;
+    float: right;
+  }
+  .center {
+    text-align: center;
+    margin-left: 2em;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+  
+  /*.mybuttons {
+    justify-content:right;
+    padding-top: 20px;
+  }*/
